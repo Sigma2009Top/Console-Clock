@@ -1,0 +1,10 @@
+Debug/*
+clock/Debug/*
+
+.vs
+.gitattributes
+
+*.sln
+*.vcxproj
+*.filters
+*.user
